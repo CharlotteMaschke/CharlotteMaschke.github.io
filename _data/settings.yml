@@ -1,0 +1,31 @@
+#-------------------------------
+# General Site Settings
+title: CharlotteMaschke
+logo: logo.svg # You can add own logo.
+description: A small blog
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Charlotte Maschke
+  image: me.png
+  say-hello: <strong>Charlotte Maschke</strong>
+  bio: I am a Neuroscience PhD student at McGill University. My work aims to prognosticate recovery of consciousness after traumatic brain injury.
+   I am passionate about theories of consciousness, the intersection between neuroscience and artificial intelligence
+   and the symbiosis of science and art.
+
+
+#-------------------------------
+# Blog Settings
+blog:
+  name: Conscious Chaos
+  image: Lorenz_Brain.png
+  intro: <strong> BRAIN drops </strong>
+  description: This is a blog about Neuroscience of Consciousness, about art and Scie
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/CharlottMaschke # Add your Twitter handle
+github: https://github.com/CharlotteMaschke # Add your Twitter handle

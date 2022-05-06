@@ -1,0 +1,13 @@
+I"�<h3 id="prognosticating-recovery-from-disorders-of-consciousness-using-machine-learning-and-electroencephalography">Prognosticating recovery from disorders of consciousness using machine-learning and electroencephalography.</h3>
+
+<hr />
+
+<p>What is consciousness and where does it come from? How can we determine whether someone is conscious? Is there a way to measure the level of consciousness?</p>
+
+<p>These questions are fundamental for my current PhD research project. Throughout my master’s studies, I have developed a detailed research plan, focusing on the application of machine-learning for the exploration of human consciousness. I am especially interested to help patients, whose state of consciousness or potential to recover is unknown. In other words, my research is focused on traumatic brain-injured patients on the intensive care unit and their potential to “wake up” and recover consciousness. “ In Canada, 2% of the population lives with a traumatic brain injury (TBI), and there are 18,000 hospitalizations for TBI each year.” [1] Until today, no tool or measure allows clinicians to reliably predict whether or not an unresponsive patient will regain consciousness and the ability to interact with his environment. The long-term goal of this research is to build a tool, which allows clinicians at the intensive care unit to accurately predict recovery of consciousness and the long-term cognitive development of severely brain-injured patients, based on an EEG recording within the first week after admission.</p>
+
+<p>In a nutshell, we aim to find the functional principles which underly the brain’s ability to emerge and sustain consciousness. Therefore, my research builds upon and challenges today’s most prominent theories of consciousness, such as Information Integration Theory. According to this theory, only a sufficiently integrated brain with the ability to dynamically react to perturbations has the potential to become conscious. In my study, I apply these principles to predict a patient’s potential to recover consciousness.</p>
+
+<p>[1] “Statistics on brain injury in Canada.” https://www.braininjurycanada.ca/en/statistics-
+brain-injury (accessed Jul. 15, 2021).</p>
+:ET
