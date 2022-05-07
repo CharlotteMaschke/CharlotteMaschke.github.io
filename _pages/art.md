@@ -9,8 +9,7 @@ image: Brain_Plant.jpg
 
 # Is it Art or is it Science ?
 
-I am deeply fascinated about the transition and symbiosis about science and art.
-
+I am deeply fascinated with the intersection and symbiosis between science and art.
 
 
 ### The Lorenz brain
