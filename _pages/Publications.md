@@ -23,5 +23,4 @@ permalink: /publications/
 
 4.	Duclos, C., Norton, L., Laforge, G., Frantz, A., <strong> Maschke, C.</strong>, Badawy, M., Letourneau, J., Slessarev, M., Gofton, T., Debicki, D., Owen, A. M., & Blain-Moraes, S. (2020). Protocol for the Prognostication of Consciousness Recovery Following a Brain Injury. Frontiers in Human Neuroscience, 14. [ DOI: 10.3389/fnhum.2020.582125](10.3389/fnhum.2020.582125){:target="\_blank"}
 
-5.	Maschke, C., & Blain-Moraes, S. (2020). Time-resolved functional connectivity from high-density EEG for characterizing the level of consciousness in behaviorally unresponsive patients. 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 520–525. [DOI: https://doi.org/10.1109/SMC42975.2020.9282979](https://doi.org/10.1109/SMC42975.2020.9282979)
-***
+5.	<strong> Maschke, C.</strong>, & Blain-Moraes, S. (2020). Time-resolved functional connectivity from high-density EEG for characterizing the level of consciousness in behaviorally unresponsive patients. 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 520–525. [DOI: https://doi.org/10.1109/SMC42975.2020.9282979](https://doi.org/10.1109/SMC42975.2020.9282979)
