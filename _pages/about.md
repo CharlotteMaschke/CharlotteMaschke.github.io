@@ -8,7 +8,7 @@ permalink: /about/
 
 ##### Currently, I am a PhD candidate working at the [BIAPT Lab](https://www.moraeslab.com/biapt/){:target="\_blank"}
 
-I am the <strong> event coordinator </strong> of [UNIQUE Studetn Affairs](https://unique-students.github.io/){:target="\_blank"}
+I am the <strong> chair of the </strong> [UNIQUE Student Affairs Committee](https://unique-students.github.io/){:target="\_blank"}
 (Union Neurosciences & Intelligence Artificielle - Québec)
 
 ---
