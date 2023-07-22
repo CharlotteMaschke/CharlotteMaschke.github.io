@@ -10,4 +10,6 @@ tags:   Neuroscience
 ### Poster Number <strong> 2553 </strong>
 
 ---
-<object data="images/POSTER_toprint_Maschke.pdf" width="1000" height="2000" type='application/pdf'></object>
+[Download here](https://github.com/CharlotteMaschke/CharlotteMaschke.github.io/blob/main/images/POSTER_OHBM23_Maschke.pdf){:target="\_blank"}</strong>
+
+![Poster OHBM]({{site.baseurl}}/images/POSTER_OHBM23_Maschke.jpeg)
