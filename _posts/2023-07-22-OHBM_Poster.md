@@ -10,4 +10,4 @@ tags:   Neuroscience
 ### Poster Number <strong> 2553 </strong>
 
 ---
-<object data="images/POSTER_toprint_Maschke.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="images/POSTER_toprint_Maschke.pdf" width="1000" height="2000" type='application/pdf'></object>
