@@ -10,7 +10,10 @@ permalink: /publications/
 
 ## Preprints
 
-1.  <strong> Maschke C.* </strong> , O'Byrne J.*, Colombo M.A., Boly M., Gosseries O., Laureys S., Rosanova M., Jerbi K., Blain-Moraes S.,"Criticality of resting-state EEG predicts perturbational complexity and level of consciousness during anesthesia"  [https://www.biorxiv.org/content/10.1101/2023.10.26.564247v1.article-metrics](https://www.biorxiv.org/content/10.1101/2023.10.26.564247v1.article-metrics){:target="\_blank"}
+1.  <strong> Maschke C. </strong> , Belloli L., Manasova D.,Sitt, J.D., Blain-Moraes S.: The role of etiology in the identification of clinical markers of consciousness: comparing EEG alpha power, complexity, and spectral exponent. 
+Preprint available online: [https://www.medrxiv.org/content/10.1101/2024.03.20.24304639v1](https://www.medrxiv.org/content/10.1101/2024.03.20.24304639v1){:target="\_blank"}
+
+2.  <strong> Maschke C.* </strong> , O'Byrne J.*, Colombo M.A., Boly M., Gosseries O., Laureys S., Rosanova M., Jerbi K., Blain-Moraes S.,"Criticality of resting-state EEG predicts perturbational complexity and level of consciousness during anesthesia"  [https://www.biorxiv.org/content/10.1101/2023.10.26.564247v1.article-metrics](https://www.biorxiv.org/content/10.1101/2023.10.26.564247v1.article-metrics){:target="\_blank"}
 *indicateing equal contribution
 
 
