@@ -9,7 +9,7 @@ tags:   Art
 # EEG to Portrait
 ---
 
-![Portr-EEG]({{site.baseurl}}/images/PortrEEG.png)
+![Portr-EEG]({{site.baseurl}}/images/portrEEG.png)
 
 ## Idea for a science-art competition: 
 I participated in a Science-art competition to honor [100 years of EEG](https://eeg100.org/){:target="\_blank"}. 
