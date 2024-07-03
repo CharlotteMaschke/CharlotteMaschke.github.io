@@ -1,0 +1,14 @@
+I"*<h1 id="eeg-to-portrait">EEG to Portrait</h1>
+<hr />
+
+<p><img src="/images/PortrEEG.png" alt="Portr-EEG" /></p>
+
+<h2 id="our-question">Our question:</h2>
+<p>I participated in a Science-art competition and created a small algorithm to visualize portraits throught some EEG signal. 
+Below, you find the link to the Girhub repo with code and examples.</p>
+
+<p><a href="https://github.com/CharlotteMaschke/EEG_to_Portrait" target="\_blank"> Link to Portr-EEG code</a></p>
+
+<p><a href="https://eeg100.org/" target="\_blank"> Link to 100 years of EEG</a></p>
+
+:ET

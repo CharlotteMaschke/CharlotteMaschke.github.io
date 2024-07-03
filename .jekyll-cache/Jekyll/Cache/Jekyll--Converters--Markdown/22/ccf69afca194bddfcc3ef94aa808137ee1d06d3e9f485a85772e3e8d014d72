@@ -1,0 +1,61 @@
+I"¸	<h3 id="genuary-2023">Genuary 2023</h3>
+
+<hr />
+
+<p><a href="https://genuary.art/" target="\_blank"> Genuray</a> is an artificially generated month
+of time where we build code that makes beautiful visualizations. This year, I participated in
+4 days of this month with the aim of visualizing 5 minutes of my resting-state brain signal,
+as recorded by an electroencephalogram (EEG). Every day, another prompt is provided by the
+organizers. The rest is just creativity. It is the first year that I am participating and I
+just started learning TouchDesigner.</p>
+
+<h1 id="day-1-perfect-loop">Day 1: Perfect loop</h1>
+
+<p>For day 1, I got inspired by a Moebius strip, which builds an infinite loop.
+Adding towards this, this Moebius strip contains some EEG spectrogram, visualizing power over frequencies.</p>
+
+<p><img src="/images/Loop.gif" alt="Topic: Loop" /></p>
+
+<h1 id="day-2-made-in-10-minutes">Day 2: Made in 10 minutes</h1>
+<p>The topic was less than 10 minutes, but it rather took me an hourâ€¦
+The turning sculpture inside the visual is a combination of 90 channels of raw brain data, projected to three dimensions.</p>
+
+<p><img src="/images/10min.gif" alt="Topic: 10min" /></p>
+
+<h1 id="day-3-glitch-art">Day 3: Glitch Art</h1>
+<p>How would brain data look like if every recording channel would be interpreted as a colour value ? I used 3 brain electrodes as r, g and b values to define a colour and visualized a total of 100 brain electrodes</p>
+
+<p><img src="/images/Glitch.gif" alt="Topic: Glitch" /></p>
+
+<h1 id="day-4-intersections">Day 4: Intersections</h1>
+<p>How about a ball rolling in a space of EEG? Why not!</p>
+
+<p><img src="/images/Intersections.gif" alt="Topic: Intersections" /></p>
+
+<h1 id="day-11-suprematism">Day 11: Suprematism</h1>
+<p>An unusual way to visualize brain data,  but this is how an EEG spectrogram could look like in the style of Suprematism.
+It contains 1 min of brain data. The size of the shapes corresponds to power in different frequency bands.</p>
+
+<p><img src="/images/Suprematism.gif" alt="Topic: Suprematism" /></p>
+
+<h3 id="the-lorenz-brain">The Lorenz brain</h3>
+
+<p><img src="/images/Lorenz_Brain.png" alt="A Lorenzian Brain" />
+<em>A Lorenzian Brain</em></p>
+
+<hr />
+
+<h3 id="brain-waves">Brain WAVES</h3>
+
+<p><img src="/images/EEG_waves.gif" alt="BrainWaves" />
+<em>EEG Brain Waves</em></p>
+
+<hr />
+
+<h3 id="eeg-spectrogram">EEG Spectrogram</h3>
+
+<p><img src="/images/EEG_1.gif" alt="Spectrogram" />
+<em>Spectrogram</em></p>
+
+<hr />
+:ET
