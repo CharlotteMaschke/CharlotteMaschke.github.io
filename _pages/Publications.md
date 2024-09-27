@@ -21,7 +21,7 @@ and <strong>[ResearchGate](https://www.researchgate.net/profile/Charlotte-Maschk
 ## Publications
 
 1.  <strong> Maschke C.* </strong> , O'Byrne J.*, Colombo M.A., Boly M., Gosseries O., Laureys S., Rosanova M., Jerbi K., Blain-Moraes S.
-(2024). Critical dynamics in spontaneous EEG predict anesthetic-induced loss of consciousness and perturbational complexity. Communications Biology, 7(1), 1–14.[https://www.nature.com/articles/s42003-024-06613-8){:target="\_blank"}
+(2024). Critical dynamics in spontaneous EEG predict anesthetic-induced loss of consciousness and perturbational complexity. Communications Biology, 7(1), 1–14.[DOI: https://www.nature.com/articles/s42003-024-06613-8](https://www.nature.com/articles/s42003-024-06613-8){:target="\_blank"}
 *indicateing equal contribution
 
 2. <strong> Maschke, C. </strong>, Dolhan K.,De Koninck B.P., Han M., Blain-Moraes S., “Functional outcome prediction after cardiac arrest using machine learning and network dynamics of resting-state electroencephalography” Computing in Cardiology conference proceedings 2023, 

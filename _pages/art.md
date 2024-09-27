@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sci-Art
-permalink: /tag/Art/
+permalink: /art/
 image: Lorenz_Brain.jpg
 ---
 
