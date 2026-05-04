@@ -12,12 +12,12 @@ blog:
   image: me.png
   say-hello: <strong>Do you MIND?</strong>
   bio: Hi, I am Charlotte Maschke. I completed my PhD in the Integrated Program in Neuroscience at McGill University, 
-    Canada working on identifying brain signatures of consciousness in unresponsive patients. 
-    My PhD research focused on the development of a clinical tool to quantify capacity for consciousness following brain injury, 
-    using anesthetic perturbation and brain dynamical properties. I is currently working as a Postdoctoral Fellow at Harvard Medical
-     School and Aix-Marseille University, using whole-brain modelling for post-injuty treatment simulation. My work gravitates around the 
+    Canada working on identifying brain signatures of consciousness in unresponsive patients following brain injury, 
+    using anesthetic perturbation and brain dynamical properties. Today, I am working as a Postdoctoral Fellow at Harvard Medical
+     School and Aix-Marseille University, using whole-brain modelling (The virtual Brain) for post-injury treatment simulation. My work gravitates around the 
      concept of complex dynamics as a requirement for healthy brain function and the emergence of consciousness. Beyond my regular 
      research, I am  passionate about the intersection between science and art.
+     'Do you MIND' is a small blog about my research and some fun artistic explorations. 
     
 #-------------------------------
 # Blog Settings
@@ -25,10 +25,12 @@ author:
   name: Charlotte Maschke
   image: me.png
   say-hello: <strong> Charlotte Maschke</strong>
-  bio: I did my PhD in Neuroscience at McGill University and my work aims to prognosticate recovery of consciousness after traumatic brain injury.
-    I am passionate about neuroscience of consciousness and the symbiosis of science and art.
+  bio: 
 
 #-------------------------------
 # Contact links
 github: https://github.com/CharlotteMaschke
 email: /contact.html
+scholar: https://scholar.google.com/citations?user=mPKCMdEAAAAJ&hl=en
+researchgate: https://www.researchgate.net/profile/Charlotte-Maschke
+linkedin: https://www.linkedin.com/in/charlotte-maschke-503580191/

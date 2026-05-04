@@ -7,21 +7,20 @@ permalink: /publications/
 # Publications
 
 ***
+## Selected Publications 
 
-## Preprints
+- <strong> Maschke C. </strong> #, Hadar P.#
+, Zhang Y.#, Li J. #, Ganjoo G.#, […] Westover B.: „The Brain Imaging and
+Neurophysiology Database: BINDing multimodal neural data into a large-scale repository“, Accepted for
+publication in Nature Scientific Data (see proof below), May 2026: ID: SDATA-25-05654 Preprint
+available at: https://www.medrxiv.org/content/10.1101/2025.10.01.25337054v1 # equal contribution to first-
+authorship
 
-1.	Newman, D.*, <strong> Maschke C.* </strong> #, Mashour, G.A., Blain-Moraes S.,: Reframing “Paradoxical” Excitation: Disentangling EEG Complexity and Entropy Reveals Resting State Dynamics Associated with Propofol Susceptibility, Preprint available at: [https://www.medrxiv.org/content/10.64898/2025.12.16.25342405v1](https://www.medrxiv.org/content/10.64898/2025.12.16.25342405v1){:target="\_blank"} * equal contribution to first-authorship
-
-2.	<strong> Maschke C.* </strong>, Hadar P.*, Zhang Y.*, Li J. *, Ganjoo G.*, […] Westover B.: „The Brain Imaging and Neurophysiology Database: BINDing multimodal neural data into a large-scale repository“, Preprint available at: [https://www.medrxiv.org/content/10.1101/2025.10.01.25337054v1](https://www.medrxiv.org/content/10.1101/2025.10.01.25337054v1){:target="\_blank"} * equal contribution to first-authorship
-
-3.	Mago J., Brahinsky J., Miller M., <strong> Maschke C.</strong>, […], Lifshitz M.: “Meditative absorption shifts brain dynamics toward criticality”, Preprint available at: [https://osf.io/preprints/psyarxiv/2hjq6_v1](https://osf.io/preprints/psyarxiv/2hjq6_v1){:target="\_blank"}
-
-
-Latest preprint announcements will also be posted on <strong>[ResearchGate](https://www.researchgate.net/profile/Charlotte-Maschke){:target="\_blank"}</strong>
-
-***
-## Publications
-
+- Newman, D. #, <strong> Maschke C. #</strong>, Mashour, G.A., Blain-Moraes S.,: Reframing “Paradoxical” Excitation:
+Disentangling EEG Complexity and Entropy Reveals Resting State Dynamics Associated with Propofol
+Susceptibility, Accepted for publication in British Journal of Anaesthesia (see proof below), ID: BJA-D-
+25-03170, Preprint available at: https://www.medrxiv.org/content/10.64898/2025.12.16.25342405v1 #
+equal contribution to first-authorship
 
 - <strong> Maschke C. </strong> , Belloli L., Manasova D.,Sitt, J.D., Blain-Moraes S.: “The role of etiology in the identification of clinical markers of consciousness: comparing EEG alpha power, complexity, and spectral exponent,” Cereb. Cortex, vol. 35, no. 9, p. bhaf254, Sept. 2025, doi: [https://doi.org/10.1093/cercor/bhaf254](https://doi.org/10.1093/cercor/bhaf254){:target="\_blank"}
 
@@ -50,3 +49,12 @@ Latest preprint announcements will also be posted on <strong>[ResearchGate](http
 
 - 	Duclos, C., Norton, L., Laforge, G., Frantz, A., <strong> Maschke, C.</strong>, Badawy, M., Letourneau, J., Slessarev, M., Gofton, T., Debicki, D., Owen, A. M., & Blain-Moraes, S. (2020). Protocol for the Prognostication of Consciousness Recovery Following a Brain Injury. Frontiers in Human Neuroscience, 14. [ DOI:  https://doi.org/10.3389/fnhum.2020.582125]( https://doi.org/10.3389/fnhum.2020.582125){:target="\_blank"}
 
+
+***
+## My Thesis
+"Quantifying consciousness in unresponsive patients through electroencephalography and perturbation."
+You can find a full version of my thesis [here](https://escholarship.mcgill.ca/concern/theses/6q182s017){:target="\_blank"}
+
+## Preprints
+
+Latest preprint announcements will also be posted on <strong>[ResearchGate](https://www.researchgate.net/profile/Charlotte-Maschke){:target="\_blank"}</strong>
