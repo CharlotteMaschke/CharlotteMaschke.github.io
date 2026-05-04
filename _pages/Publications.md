@@ -12,15 +12,12 @@ permalink: /publications/
 - <strong> Maschke C. </strong> #, Hadar P.#
 , Zhang Y.#, Li J. #, Ganjoo G.#, […] Westover B.: „The Brain Imaging and
 Neurophysiology Database: BINDing multimodal neural data into a large-scale repository“, Accepted for
-publication in Nature Scientific Data (see proof below), May 2026: ID: SDATA-25-05654 Preprint
-available at: https://www.medrxiv.org/content/10.1101/2025.10.01.25337054v1 # equal contribution to first-
-authorship
+publication in Nature Scientific Data, May 2026, Preprint
+available at: [https://www.medrxiv.org/content/10.1101/2025.10.01.25337054v1](https://www.medrxiv.org/content/10.1101/2025.10.01.25337054v1){:target="\_blank"} # equal contribution to first- authorship
 
 - Newman, D. #, <strong> Maschke C. #</strong>, Mashour, G.A., Blain-Moraes S.,: Reframing “Paradoxical” Excitation:
 Disentangling EEG Complexity and Entropy Reveals Resting State Dynamics Associated with Propofol
-Susceptibility, Accepted for publication in British Journal of Anaesthesia (see proof below), ID: BJA-D-
-25-03170, Preprint available at: https://www.medrxiv.org/content/10.64898/2025.12.16.25342405v1 #
-equal contribution to first-authorship
+Susceptibility, Accepted for publication in British Journal of Anaesthesia, Preprint available at: [https://www.medrxiv.org/content/10.64898/2025.12.16.25342405v1 ](https://www.medrxiv.org/content/10.64898/2025.12.16.25342405v1 ){:target="\_blank"} #equal contribution to first-authorship
 
 - <strong> Maschke C. </strong> , Belloli L., Manasova D.,Sitt, J.D., Blain-Moraes S.: “The role of etiology in the identification of clinical markers of consciousness: comparing EEG alpha power, complexity, and spectral exponent,” Cereb. Cortex, vol. 35, no. 9, p. bhaf254, Sept. 2025, doi: [https://doi.org/10.1093/cercor/bhaf254](https://doi.org/10.1093/cercor/bhaf254){:target="\_blank"}
 
